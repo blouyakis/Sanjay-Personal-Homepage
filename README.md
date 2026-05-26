@@ -2,6 +2,10 @@
 
 A personal portfolio website built with vanilla HTML5, CSS3, and ES6+ modules. Features an interactive terminal component, typing animations, scroll-triggered experience timeline. The contact page was generated with AI assistance to demonstrate modern AI-assisted development workflows.
 
+```
+Outstanding job on your site! I was so impressed with the terminal, as well as how clean and professional everything looks! I definitely learned a few things while doing this code review. Keep up the great work Sanjay!
+Barbara Louyakis
+```
 ---
 
 ## Project Objective
